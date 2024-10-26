@@ -118,7 +118,6 @@ const SkillInfo = [
     skills: [
       'Maven',
       'Gradle',
-      'Hibernate',
       'Spring Data JPA',
       'Hibernate',
       'Postman',
