@@ -1,5 +1,5 @@
 import {
-    IconBrandFacebook,
+  IconBrandFacebook,
   IconBrandGithub,
   IconBrandInstagram,
   IconBrandLeetcode,
@@ -17,7 +17,7 @@ const Info = {
     'Software Developer',
     'Open Source Contributor',
   ],
-  bio: 'I’m a PHP developer with 1.3 year of experience in creating dynamic web applications. I specialize in leveraging PHP and frameworks like Laravel to build efficient, user-friendly solutions. Passionate about clean code and innovative design, I enjoy collaborating with teams to bring ideas to life. When I’m not coding, I love exploring new technologies and contributing to open-source projects. Let’s connect!',
+  bio: 'I’m a Full Stack developer with 1.3 year of experience in creating dynamic web applications. I specialize in leveraging Java and PHP frameworks like Spring, Spring Boot and Laravel to build efficient, user-friendly solutions. Passionate about clean code and innovative design, I enjoy collaborating with teams to bring ideas to life. When I’m not coding, I love exploring new technologies and contributing to open-source projects. Let’s connect!',
 };
 
 const ProjectInfo = [
@@ -89,7 +89,7 @@ const SkillInfo = [
     skills: [
       'HTML',
       'CSS',
-      'javaScript',
+      'JavaScript',
       'React JS',
       'Tailwind CSS',
       'Bootstrap',
@@ -98,6 +98,8 @@ const SkillInfo = [
   {
     title: 'Backend',
     skills: [
+      'Spring MVC',
+      'SpringBoot',
       'Laravel',
       'Yii2',
       'Node JS',
@@ -114,24 +116,27 @@ const SkillInfo = [
   {
     title: 'Tools',
     skills: [
+      'Maven',
+      'Gradle',
+      'Hibernate',
+      'Spring Data JPA',
+      'Hibernate',
+      'Postman',
       'Git',
-      'GitHub',
       'VS Code',
       'Eclipse',
-      'Postman',
       'PhpMyAdmin',
-      'MS Office',
     ],
   },
 ];
 
 const socialLinks = [
-    { link: 'https://github.com/akashverma004', icon: IconBrandGithub },
-    { link: 'https://linkedin.com/in/akashverma004', icon: IconBrandLinkedin },
-    { link: 'https://leetcode.com/u/akash_verma_004/', icon: IconBrandLeetcode },
-    { link: 'https://www.instagram.com/__akash_004', icon: IconBrandInstagram },
-    { link: 'https://youtube.com/', icon: IconBrandYoutube },
-  ];
+  { link: 'https://github.com/akashverma004', icon: IconBrandGithub },
+  { link: 'https://linkedin.com/in/akashverma004', icon: IconBrandLinkedin },
+  { link: 'https://leetcode.com/u/akash_verma_004/', icon: IconBrandLeetcode },
+  { link: 'https://www.instagram.com/__akash_004', icon: IconBrandInstagram },
+  { link: 'https://youtube.com/', icon: IconBrandYoutube },
+];
 
 const ExperienceInfo = [
   {
