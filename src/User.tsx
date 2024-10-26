@@ -99,7 +99,7 @@ const SkillInfo = [
     title: 'Backend',
     skills: [
       'Spring MVC',
-      'SpringBoot',
+      'Springboot',
       'Laravel',
       'Yii2',
       'Node JS',
