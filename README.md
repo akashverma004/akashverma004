@@ -1,46 +1,32 @@
-# Getting Started with Create React App
+# Akash Verma - Personal Portfolio
+A showcase of my projects, skills, and experience in Software Development.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+- [About](#about)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Contact](#contact)
 
-## Available Scripts
+## About
+I’m a Full Stack developer with 1.3 year of experience in creating dynamic web applications. I specialize in leveraging Java and PHP frameworks like Spring, Spring Boot and Laravel to build efficient, user-friendly solutions. Passionate about clean code and innovative design, I enjoy collaborating with teams to bring ideas to life. When I’m not coding, I love exploring new technologies and contributing to open-source projects. Let’s connect!
 
-In the project directory, you can run:
+This portfolio is a reflection of my journey, showcasing my skills, projects, and accomplishments.
 
-### `npm start`
+## Projects
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Coming Soon...
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Skills
+Highlight your key skills.
 
-### `npm test`
+- **Programming Languages**: Java, PHP, JavaScript, Python, etc.
+- **Frameworks**: Spring and SpringBoot, Laravel, Yii2, React, Next.js, etc.
+- **Tools**: Git, Docker, Eclipse IDE, VS Code etc.
+- **Others**: Communication, problem-solving.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contact
+Feel free to reach out!
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Email: vermakash04012002@gmail.com
+- LinkedIn: https://www.linkedin.com/in/akashverma004/
+- Portfolio: https://akashverma004.github.io/akashverma004/
