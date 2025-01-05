@@ -24,7 +24,7 @@ const ProjectInfo = [
   {
     title: 'Todo Web Application',
     desc: 'This Todo Web Application is built with Java, JSP, and the Spring framework, providing an efficient task management solution. Users can create, update, and delete tasks with an easy-to-use interface. The app leverages Spring for backend management and JSP for dynamic content rendering, ensuring smooth functionality and a seamless user experience.',
-    image: 'public\Icons\TodoApp.png',
+    image: 'Icons\TodoApp.png',
     live: false,
     technologies: ['Java', 'Spring MVC', 'Springboot', 'Hibernate', 'Spring Data JPA'],
     link: '',
