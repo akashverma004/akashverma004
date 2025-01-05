@@ -17,19 +17,18 @@ const Info = {
     'Software Developer',
     'Open Source Contributor',
   ],
-  bio: 'I’m a Full Stack developer with 1.3 year of experience in creating dynamic web applications. I specialize in leveraging Java and PHP frameworks like Spring, Spring Boot and Laravel to build efficient, user-friendly solutions. Passionate about clean code and innovative design, I enjoy collaborating with teams to bring ideas to life. When I’m not coding, I love exploring new technologies and contributing to open-source projects. Let’s connect!',
+  bio: `I’m a Java Developer with 1.3 years of experience in building dynamic web applications using Java frameworks like Spring and Spring Boot. I’m passionate about writing clean, efficient code and collaborating with teams to turn ideas into functional solutions. When I'm not coding, I enjoy exploring new technologies and contributing to open-source projects. Let's connect!`,
 };
 
 const ProjectInfo = [
   {
-    title: 'Norway Fjord',
-    desc: 'With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway Norway With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway',
-    image:
-      'https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-8.png',
-    live: true,
-    technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Mantine'],
-    link: 'https://norway-fjord-adventures.vercel.app/',
-    github: 'https://github.com',
+    title: 'Todo Web Application',
+    desc: 'This Todo Web Application is built with Java, JSP, and the Spring framework, providing an efficient task management solution. Users can create, update, and delete tasks with an easy-to-use interface. The app leverages Spring for backend management and JSP for dynamic content rendering, ensuring smooth functionality and a seamless user experience.',
+    image: 'public\Icons\TodoApp.png',
+    live: false,
+    technologies: ['Java', 'Spring MVC', 'Springboot', 'Hibernate', 'Spring Data JPA'],
+    link: '',
+    github: 'https://github.com/akashverma004/JavaTodo',
   },
   {
     title: 'Norway Fjord',
@@ -50,37 +49,7 @@ const ProjectInfo = [
     technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Mantine'],
     link: 'https://norway-fjord-adventures.vercel.app/',
     github: 'https://github.com',
-  },
-  {
-    title: 'Norway Fjord',
-    desc: 'With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway Norway With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway',
-    image:
-      'https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-8.png',
-    live: false,
-    technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Mantine'],
-    link: 'https://norway-fjord-adventures.vercel.app/',
-    github: 'https://github.com',
-  },
-  {
-    title: 'Norway Fjord',
-    desc: 'With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway Norway With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway',
-    image:
-      'https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-8.png',
-    live: true,
-    technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Mantine'],
-    link: 'https://norway-fjord-adventures.vercel.app/',
-    github: 'https://github.com',
-  },
-  {
-    title: 'Norway Fjord',
-    desc: 'With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway Norway With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway With Fjord Tours you can explore more of the magical fjord landscapes with tours and activities on and around the fjords of Norway',
-    image:
-      'https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-8.png',
-    live: false,
-    technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Mantine'],
-    link: 'https://norway-fjord-adventures.vercel.app/',
-    github: 'https://github.com',
-  },
+  }
 ];
 
 const SkillInfo = [
